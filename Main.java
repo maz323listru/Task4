@@ -42,11 +42,8 @@ public class Main {
       time1.printTime();
       System.out.println("Общее количество секунд: "+s);
       time2.returnFullTime();
-int x=30%7;
-        System.out.println(x);
-        }
-
     }
+}
 // write your code here
 
 
